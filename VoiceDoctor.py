@@ -17,7 +17,7 @@ def text_to_speech_with_gtts_old(input_text, output_filepath):
     audioobj.save(output_filepath)
 
 
-input_text="Hi this is Ai with Hassan!"
+input_text="Hi this is Ai with Yasiru!"
 text_to_speech_with_gtts_old(input_text=input_text, output_filepath="gtts_testing.mp3")
 
 
